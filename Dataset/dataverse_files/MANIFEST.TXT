@@ -1,0 +1,54 @@
+train copy/normal/normal_1.jpg (image/jpeg) 28722 bytes.
+validation/normal/normal_10.jpg (image/jpeg) 30538 bytes.
+testing/normal/normal_11.jpg (image/jpeg) 29792 bytes.
+train copy/normal/normal_12.jpg (image/jpeg) 30260 bytes.
+train copy/normal/normal_13.jpg (image/jpeg) 29930 bytes.
+train copy/normal/normal_14.jpg (image/jpeg) 30746 bytes.
+train copy/normal/normal_15.jpg (image/jpeg) 29573 bytes.
+testing/normal/normal_16.jpg (image/jpeg) 30324 bytes.
+train copy/normal/normal_17.jpg (image/jpeg) 29520 bytes.
+validation/normal/normal_18.jpg (image/jpeg) 31328 bytes.
+train copy/normal/normal_19.jpg (image/jpeg) 29556 bytes.
+validation/normal/normal_2.jpg (image/jpeg) 30762 bytes.
+train copy/normal/normal_20.jpg (image/jpeg) 31698 bytes.
+validation/normal/normal_21.jpg (image/jpeg) 30855 bytes.
+testing/normal/normal_22.jpg (image/jpeg) 30242 bytes.
+train copy/normal/normal_23.jpg (image/jpeg) 29245 bytes.
+train copy/normal/normal_24.jpg (image/jpeg) 31118 bytes.
+validation/normal/normal_25.jpg (image/jpeg) 29739 bytes.
+train copy/normal/normal_26.jpg (image/jpeg) 30433 bytes.
+train copy/normal/normal_27.jpg (image/jpeg) 29867 bytes.
+testing/normal/normal_28.jpg (image/jpeg) 30549 bytes.
+train copy/normal/normal_29.jpg (image/jpeg) 29670 bytes.
+train copy/normal/normal_3.jpg (image/jpeg) 30098 bytes.
+train copy/normal/normal_30.jpg (image/jpeg) 29975 bytes.
+validation/normal/normal_31.jpg (image/jpeg) 30020 bytes.
+train copy/normal/normal_32.jpg (image/jpeg) 29917 bytes.
+train copy/normal/normal_33.jpg (image/jpeg) 30460 bytes.
+testing/normal/normal_34.jpg (image/jpeg) 31119 bytes.
+train copy/normal/normal_35.jpg (image/jpeg) 29839 bytes.
+testing/normal/normal_36.jpg (image/jpeg) 30741 bytes.
+train copy/normal/normal_37.jpg (image/jpeg) 29103 bytes.
+validation/normal/normal_38.jpg (image/jpeg) 30264 bytes.
+train copy/normal/normal_39.jpg (image/jpeg) 30028 bytes.
+testing/normal/normal_4.jpg (image/jpeg) 31249 bytes.
+train copy/normal/normal_40.jpg (image/jpeg) 29672 bytes.
+train copy/normal/normal_5.jpg (image/jpeg) 31176 bytes.
+validation/normal/normal_6.jpg (image/jpeg) 29635 bytes.
+train copy/normal/normal_7.jpg (image/jpeg) 30967 bytes.
+testing/normal/normal_8.jpg (image/jpeg) 29431 bytes.
+train copy/normal/normal_9.jpg (image/jpeg) 30291 bytes.
+validation/pco/pco_1.jpg (image/jpeg) 30216 bytes.
+testing/pco/pco_10.jpg (image/jpeg) 30092 bytes.
+testing/pco/pco_11.jpg (image/jpeg) 29704 bytes.
+train copy/pco/pco_12.jpg (image/jpeg) 30588 bytes.
+testing/pco/pco_13.jpg (image/jpeg) 29528 bytes.
+train copy/pco/pco_14.jpg (image/jpeg) 28833 bytes.
+train copy/pco/pco_2.jpg (image/jpeg) 29127 bytes.
+train copy/pco/pco_3.jpg (image/jpeg) 30318 bytes.
+validation/pco/pco_4.jpg (image/jpeg) 30754 bytes.
+train copy/pco/pco_5.jpg (image/jpeg) 29674 bytes.
+train copy/pco/pco_6.jpg (image/jpeg) 30708 bytes.
+validation/pco/pco_7.jpg (image/jpeg) 30721 bytes.
+train copy/pco/pco_8.jpg (image/jpeg) 30192 bytes.
+train copy/pco/pco_9.jpg (image/jpeg) 30481 bytes.
