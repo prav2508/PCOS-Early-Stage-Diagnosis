@@ -99,6 +99,7 @@ class Trainer:
     
     def trial(self):
 
+        print("======= executing trail =========")
         image_path = 'Dataset/data/PreProcessedData/train/notinfected/image_0c97b15d-7246-4d73-ab96-bc720330346d_notinfected.png'
         image = cv2.imread(image_path)
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
